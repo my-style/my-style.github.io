@@ -11,13 +11,13 @@ Northeast University
 Peking University
 
 ### About Code
-gitee: https://gitee.com/willfree  
+gitee: <https://gitee.com/willfree>  
 
-github: https://github.com/my-style  
+github: <https://github.com/my-style>  
 
-csdn: https://blog.csdn.net/qq_38672855  
+csdn: <https://blog.csdn.net/qq_38672855>  
 
-simple-book: https://www.jianshu.com/u/d581fabab264  
+simple-book: <https://www.jianshu.com/u/d581fabab264>  
 
 ### Support or Contact
 e-mail: wefree@stu.pku.edu.cn

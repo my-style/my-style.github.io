@@ -1,7 +1,5 @@
 ## Welcome to My Home Page
 
-![avatar][base64str]
-
 You may find something interesting here.
 
 ### About Education

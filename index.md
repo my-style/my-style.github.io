@@ -1,7 +1,7 @@
 ## Wefree's Home Page
 
-" Our will is free. " 
-
+<p align="right"> " Our will is free. " </p>
+-----
 ### About Education
 
 #### Undergraduate Education
@@ -9,7 +9,7 @@ Northeastern University
 
 #### Postgraduate Education
 Peking University
-
+*****
 ### About Code
 gitee: <https://gitee.com/willfree>  
 
@@ -18,7 +18,7 @@ github: <https://github.com/my-style>
 csdn: <https://blog.csdn.net/qq_38672855>  
 
 simple-book: <https://www.jianshu.com/u/d581fabab264>  
-
+-----
 ### Support or Contact
 e-mail: <wefree@stu.pku.edu.cn>  
 

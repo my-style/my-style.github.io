@@ -1,11 +1,11 @@
 ## Wefree's Home Page
 
-Our will is free.    -- wefree 
+" Our will is free. " 
 
 ### About Education
 
 #### Undergraduate Education
-Northeast University
+Northeastern University
 
 #### Postgraduate Education
 Peking University

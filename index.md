@@ -1,9 +1,9 @@
 ## Wefree's Home Page
 
 <!-- <p align="right"> " Our will is free. " </p>  -->
-<center> " Our will is free. " </center>  
+<!-- <center> " Our will is free. " </center>  -->
 
------
+-----  
 
 ### About Education
 

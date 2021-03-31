@@ -8,10 +8,10 @@
 ### About Education
 
 #### Undergraduate Education
-Northeastern University
+[Northeastern University](https://www.neu.edu.cn/)
 
 #### Postgraduate Education
-Peking University  
+[Peking University](https://www.pku.edu.cn/)  
 <br>  
 ### About Code
 gitee: <https://gitee.com/willfree>  
